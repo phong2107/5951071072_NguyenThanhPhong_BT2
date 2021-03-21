@@ -1,0 +1,10 @@
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\bin\Debug\5951071072_NguyenThanhPhong.exe.config
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\bin\Debug\5951071072_NguyenThanhPhong.exe
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\bin\Debug\5951071072_NguyenThanhPhong.pdb
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\obj\Debug\5951071072_NguyenThanhPhong.csprojAssemblyReference.cache
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\obj\Debug\_5951071072_NguyenThanhPhong.Form1.resources
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\obj\Debug\_5951071072_NguyenThanhPhong.Properties.Resources.resources
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\obj\Debug\5951071072_NguyenThanhPhong.csproj.GenerateResource.cache
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\obj\Debug\5951071072_NguyenThanhPhong.csproj.CoreCompileInputs.cache
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\obj\Debug\5951071072_NguyenThanhPhong.exe
+C:\Users\lolml\source\repos\5951071072_NguyenThanhPhong\5951071072_NguyenThanhPhong\obj\Debug\5951071072_NguyenThanhPhong.pdb
